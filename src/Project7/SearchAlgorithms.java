@@ -51,7 +51,7 @@ public class SearchAlgorithms {
                 }
             }
                     
-                    System.out.println("Binary Search: target " + target + " not found. Number of steps is " + array.length);   
+                    System.out.println("Binary Search: target " + target + " not found. Number of steps is " + count);   
         }
         
 }
